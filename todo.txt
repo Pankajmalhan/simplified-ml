@@ -1,0 +1,6 @@
+1. Add Env Variables
+2. Check for hashing method
+3. Create Thread for data upload and prediction
+4. Store Credentials in Database
+5. Can we store project specific assets on cloud
+6. Restrictions for data that is uploading(also for data uploading from other resources)
